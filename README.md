@@ -4,7 +4,7 @@ Requirements :
 <ol>
   <li>Python min 3.10++</li>
   <li>install Ursina Engine <b>pip install ursina</b></li>
-  <li>install Perlin Noise <b>pip install perlin-noise</b>'</li>
+  <li>install Perlin Noise <b>pip install perlin-noise</b></li>
 </ol>
 
 
